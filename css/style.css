@@ -19,7 +19,7 @@ h1{
 .menu-box h2 {  
   border: 1px solid black;
   position: absolute;
-  top: -20;
+  top: -20px;
   right: 0;
  }
     
